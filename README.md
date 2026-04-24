@@ -2,6 +2,11 @@
  
 A responsive React + Vite web application that displays a multi-category product catalog. Built as part of a Frontend Developer Assignment.
  
+
+ ## Live Demo Link
+multi-category-catalog.netlify.app
+
+
 ## 📋 Assignment Requirements Met
  
 - ✅ Home Screen with all categories (Cars, Bikes, Phones, Computers)
