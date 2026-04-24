@@ -3,8 +3,8 @@
 A responsive React + Vite web application that displays a multi-category product catalog. Built as part of a Frontend Developer Assignment.
  
 
- ## Live Demo Link
-multi-category-catalog.netlify.app
+## 🚀 Live Demo  
+👉 [Click Here to View Application](https://multi-category-catalog.netlify.app)
 
 
 ## 📋 Assignment Requirements Met
